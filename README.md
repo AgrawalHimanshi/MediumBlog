@@ -1,4 +1,4 @@
-# himanshi.alg-gmail.com
+# Medium Blog
 MediumBlog
 
 to activate virtual environment
